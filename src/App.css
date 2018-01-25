@@ -1,0 +1,129 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.container-fluid{
+
+  margin-top:10px; 
+}
+
+.photo-01 {
+  
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 360px;
+}
+
+#top-navigation .ident .vc-name .name .name-title {
+  padding: 17px 40px 18px 40px;
+  min-height: 120px;
+  max-height: 120px;
+  overflow: hidden;
+}
+
+.name{
+background-color: #4f4f4f
+}
+
+.position
+{
+
+  background-color:#3f3f3f
+}
+
+.name-title,.cd-intro {
+  color:#ffffff;
+}
+
+.color1{
+
+  background-color:#1abc9c;
+}
+
+.color2{
+
+  background-color:#3498db;
+}
+
+.color3{
+
+  background-color:#9b59b6;
+}
+
+.color4{
+
+  background-color:#e67e22;
+}
+
+.color5{
+
+  background-color:#e74c3c;
+}
+
+.color6{
+
+  background-color:#d9a81d;
+}
+
+#top-navigation .ident .vc-name .name h1 {
+  margin: 0;
+  font-size: 40px;
+  line-height: 2.1em;
+}
+
+.font-accident-two-extralight {
+  
+  font-weight: 200 !important;
+}
+
+#top-navigation .ident .vc-name .name .name-pdf {
+  background: rgba(0, 0, 0, 0.1);
+  min-height: 120px;
+  max-height: 120px;
+  text-align: center;
+}
+
+#top-navigation .menuitem span {
+  width: 100%;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: #ffffff; 
+}
+
+.info{
+
+  padding-top: 20px !important;
+}
+
+#top-navigation .menuitem  span.menuIcon {
+  display: inline;
+  font-size:50px;
+  color: #ffffff;
+}
