@@ -14,3 +14,8 @@ Use this command to start the application:
 
 1) npm install -> install all the dependencies 
 2) npm run start -> build and start application
+
+
+This is the link to the swagger, where you can find an article that talks about the three major frameworksand where we try to compare them with each other
+
+https://sway.com/PIRy6ypGrx9V76JL?ref=Link
